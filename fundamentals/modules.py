@@ -11,8 +11,8 @@ from camelcase import CamelCase
 
 
 # import custom module
-import validator
-from validator import validate_email
+import fundamentals.validator as validator
+from fundamentals.validator import validate_email
 
 email = 'test#test.com'
 if validate_email(email):
