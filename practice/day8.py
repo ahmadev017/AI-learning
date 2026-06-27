@@ -21,12 +21,12 @@ def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
 print(
-    "Similarity (Python vs Python):",
+    "Similarity (Apple vs Apple(fruit)):",
     round(cosine_similarity(embeddings[0], embeddings[1]), 4)
 )
 
 print(
-    "Similarity (Python vs Biryani):",
+    "Similarity (Apple vs Apple):",
     round(cosine_similarity(embeddings[0], embeddings[2]), 4)
 )
 #print(embeddings.shape)
