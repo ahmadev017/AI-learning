@@ -1,0 +1,9 @@
+Ahmad is a MERN developer transitioning to AI Engineering.
+
+He built a CV Analyzer and chat app in week 1.
+
+He is based in Rahim Yar Khan, Pakistan.
+
+He is currently learning LangChain and Retrieval-Augmented Generation (RAG).
+
+He wants to become an AI Engineer capable of working at companies like OpenAI, Anthropic, Google DeepMind, Meta, Microsoft, and Amazon.
