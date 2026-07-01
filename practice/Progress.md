@@ -114,3 +114,29 @@ Completed:
 - Prompt augmentation
 - ask() orchestration
 Ready for: Advanced retrieval improvements.
+
+
+# day 11 (langChain)
+✅ Completed Topics
+LangChain architecture
+LangChain v1 API
+ChatGroq integration
+HuggingFace embeddings
+Chroma integration
+Document loaders
+TextLoader
+RecursiveCharacterTextSplitter
+Chunk overlap
+Document abstraction
+Prompt templates
+Document chains
+Retrieval chains
+Complete LangChain RAG pipeline
+Projects Completed
+Manual RAG (Day 10)
+LangChain RAG using text files (Day 11)
+Skills Gained
+Can explain manual RAG
+Can explain LangChain internals
+Can debug retrieval failures
+Can build production-style LangChain pipelines

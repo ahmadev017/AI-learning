@@ -489,3 +489,18 @@ Understanding is the destination.
 - Build systems manually before using frameworks.
 - Separate retrieval from generation.
 - Each function should have one responsibility.
+
+# day 11 (langChain)
+New Mental Models
+
+Abstractions don't replace understanding.
+
+Frameworks automate work but do not change the underlying algorithms.
+
+Retrieval quality determines generation quality.
+
+A powerful LLM cannot answer correctly if the retriever provides the wrong context.
+
+Separate ingestion from querying.
+
+Production RAG systems preprocess documents once and answer many queries later.

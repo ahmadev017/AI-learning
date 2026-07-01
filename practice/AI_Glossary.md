@@ -293,3 +293,18 @@ Performed by an LLM.
 - Orchestration
 - Context Window
 - Semantic Search
+
+
+# Day 11 (langChain)
+| Term                           | Definition                                                      |
+| ------------------------------ | --------------------------------------------------------------- |
+| LangChain                      | Framework for orchestrating LLM applications.                   |
+| Document                       | Standard LangChain object containing page content and metadata. |
+| TextLoader                     | Reads text files and converts them into Document objects.       |
+| RecursiveCharacterTextSplitter | Splits large documents into overlapping chunks.                 |
+| Chunk Overlap                  | Shared text between consecutive chunks to preserve context.     |
+| Retriever                      | Retrieves the most relevant documents from a vector store.      |
+| ChatPromptTemplate             | Template for constructing prompts with variables.               |
+| Stuff Documents Chain          | Combines retrieved documents into a single prompt.              |
+| Retrieval Chain                | Complete pipeline combining retrieval and LLM generation.       |
+| `invoke()`                     | Executes a LangChain runnable or chain.                         |

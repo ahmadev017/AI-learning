@@ -114,3 +114,22 @@
 3. Why store both text and embeddings?
 4. What remains if the LLM is removed?
 5. Why doesn't the LLM know the whole vector DB?
+
+# Day 11 (langChain)
+
+Beginner
+What is LangChain?
+Why was LangChain created?
+What is a Document?
+What is metadata?
+Why is chunking necessary?
+Why do we use chunk overlap?
+Intermediate
+Explain the difference between from_texts() and from_documents().
+Explain the role of a Retriever.
+What does create_stuff_documents_chain() do?
+Why does LangChain still require embeddings?
+Advanced
+Explain the complete execution flow when calling retrieval_chain.invoke().
+Why did increasing k from 2 to 3 improve retrieval in your project?
+How would you separate ingestion and querying in a production RAG system?
