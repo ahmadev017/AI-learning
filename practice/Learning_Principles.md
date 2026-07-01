@@ -504,3 +504,11 @@ A powerful LLM cannot answer correctly if the retriever provides the wrong conte
 Separate ingestion from querying.
 
 Production RAG systems preprocess documents once and answer many queries later.
+
+# Day 12 (PDF App)
+
+Separate API routing from AI business logic.
+Treat the LLM as only one component in a larger AI pipeline.
+Build and test AI systems incrementally (loader → splitter → embeddings → vector store → retriever → LLM).
+Expect dependency and environment issues when working with rapidly evolving AI libraries.
+Debug systematically: read the error, identify the layer (imports, config, runtime), then fix the root cause.

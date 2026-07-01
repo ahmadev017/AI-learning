@@ -133,3 +133,14 @@ Advanced
 Explain the complete execution flow when calling retrieval_chain.invoke().
 Why did increasing k from 2 to 3 improve retrieval in your project?
 How would you separate ingestion and querying in a production RAG system?
+
+# Day 12 (Pdf App)
+
+What problem does Retrieval-Augmented Generation (RAG) solve?
+Why do we split documents into chunks before embedding?
+What is the difference between an embedding model and an LLM?
+Why is a vector database required in a RAG system?
+Why does FastAPI use Pydantic?
+Why was the uploaded PDF saved temporarily before processing?
+What caused the Windows WinError 32 when uploading a second PDF, and how was it resolved?
+Explain the complete request flow from uploading a PDF to generating an answer.

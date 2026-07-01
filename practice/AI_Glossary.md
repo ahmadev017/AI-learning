@@ -308,3 +308,17 @@ Performed by an LLM.
 | Stuff Documents Chain          | Combines retrieved documents into a single prompt.              |
 | Retrieval Chain                | Complete pipeline combining retrieval and LLM generation.       |
 | `invoke()`                     | Executes a LangChain runnable or chain.                         |
+
+
+# Day 12 (PDF App)
+
+| Term                          | Meaning                                                                                               |
+| ----------------------------- | ----------------------------------------------------------------------------------------------------- |
+| FastAPI                       | High-performance Python framework for building APIs.                                                  |
+| UploadFile                    | FastAPI type for handling uploaded files.                                                             |
+| Pydantic                      | Library for data validation and request parsing.                                                      |
+| PyPDFLoader                   | LangChain loader for extracting text from PDF files.                                                  |
+| RetrievalQA                   | LangChain chain that combines retrieval with an LLM to answer questions.                              |
+| Chroma                        | Vector database used for storing and searching embeddings.                                            |
+| CORS                          | Browser security mechanism controlling cross-origin requests.                                         |
+| SentenceTransformerEmbeddings | Embedding wrapper using sentence-transformer models (deprecated in favor of `langchain_huggingface`). |

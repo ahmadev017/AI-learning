@@ -140,3 +140,30 @@ Can explain manual RAG
 Can explain LangChain internals
 Can debug retrieval failures
 Can build production-style LangChain pipelines
+
+# Day 12 (Pdf App)
+
+✅ Completed
+FastAPI fundamentals
+File uploads with FastAPI
+Pydantic request validation
+PDF parsing
+Text chunking
+Local embeddings
+Chroma vector database
+RetrievalQA pipeline
+Full-stack React + FastAPI integration
+First production-style RAG application
+🚀 Project Completed
+
+PDF Chatbot (Full Stack)
+
+Features:
+
+Upload PDF
+Ask questions
+Semantic search
+Source retrieval
+React frontend
+FastAPI backend
+Groq integration
