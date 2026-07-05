@@ -167,3 +167,30 @@ Source retrieval
 React frontend
 FastAPI backend
 Groq integration
+
+# Day 13
+
+Completed
+✅ LangChain Fundamentals
+✅ Embeddings
+✅ Vector Databases
+✅ ChromaDB
+✅ RAG Pipeline
+✅ FastAPI Backend
+✅ PDF Chatbot
+✅ Docker
+✅ Dockerfile
+✅ Docker Images
+✅ Docker Containers
+✅ Backend Deployment (Render)
+✅ Frontend Deployment (Vercel)
+Projects Completed
+✅ Production-ready PDF Chatbot
+PDF Upload
+Semantic Search
+Gemini Embeddings
+Groq LLM
+ChromaDB
+Dockerized
+Backend deployed on Render
+Frontend deployed on Vercel

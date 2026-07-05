@@ -471,18 +471,14 @@ creates deeper understanding than memorizing APIs.
 # Principle #30
 
 ## My Goal Is Not to Finish the Roadmap
-
 My goal is to become an engineer who can:
-
 * Design AI systems
 * Build AI products
 * Debug AI pipelines
 * Explain AI concepts
 * Pass technical interviews
 * Continue learning independently
-
 The roadmap is only the path.
-
 Understanding is the destination.
 
 # New Principles
@@ -492,17 +488,11 @@ Understanding is the destination.
 
 # day 11 (langChain)
 New Mental Models
-
 Abstractions don't replace understanding.
-
 Frameworks automate work but do not change the underlying algorithms.
-
 Retrieval quality determines generation quality.
-
 A powerful LLM cannot answer correctly if the retriever provides the wrong context.
-
 Separate ingestion from querying.
-
 Production RAG systems preprocess documents once and answer many queries later.
 
 # Day 12 (PDF App)
@@ -512,3 +502,10 @@ Treat the LLM as only one component in a larger AI pipeline.
 Build and test AI systems incrementally (loader → splitter → embeddings → vector store → retriever → LLM).
 Expect dependency and environment issues when working with rapidly evolving AI libraries.
 Debug systematically: read the error, identify the layer (imports, config, runtime), then fix the root cause.
+
+# Day 13
+
+Code alone is not enough for deployment; the runtime environment matters too.
+Containerization ensures consistent behavior across development, testing, and production.
+Secrets should be provided through environment variables, never committed to source control.
+Deploying an AI application requires packaging dependencies, infrastructure, and configuration—not just application logic.

@@ -322,3 +322,24 @@ Performed by an LLM.
 | Chroma                        | Vector database used for storing and searching embeddings.                                            |
 | CORS                          | Browser security mechanism controlling cross-origin requests.                                         |
 | SentenceTransformerEmbeddings | Embedding wrapper using sentence-transformer models (deprecated in favor of `langchain_huggingface`). |
+
+
+# Day 13 (containerised and deployed)
+
+AI_Glossary.md Updates
+Docker
+A platform for packaging applications and their dependencies into portable containers.
+Docker Image
+A read-only blueprint containing everything required to run an application.
+Docker Container
+A running instance of a Docker image.
+Dockerfile
+A script containing instructions to build a Docker image.
+Containerization
+The process of packaging software with all dependencies into isolated containers.
+Render
+A cloud platform used to deploy backend applications.
+Vercel
+A cloud platform optimized for deploying frontend applications.
+Environment Variables
+Configuration values stored outside the source code, commonly used for secrets such as API keys

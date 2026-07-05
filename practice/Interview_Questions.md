@@ -144,3 +144,17 @@ Why does FastAPI use Pydantic?
 Why was the uploaded PDF saved temporarily before processing?
 What caused the Windows WinError 32 when uploading a second PDF, and how was it resolved?
 Explain the complete request flow from uploading a PDF to generating an answer.
+
+# Day 13
+
+What is Docker?
+Why was Docker created?
+Image vs Container.
+Explain the Docker lifecycle.
+What is a Dockerfile?
+Why are environment variables important?
+What happens during docker build?
+What happens during docker run?
+Why is Docker popular for AI applications?
+How did we deploy our PDF Chatbot?
+
