@@ -158,3 +158,18 @@ What happens during docker run?
 Why is Docker popular for AI applications?
 How did we deploy our PDF Chatbot?
 
+# Day 17
+
+What problem does LangGraph solve compared to ReAct?
+Why does LangGraph use a shared state?
+What is the responsibility of a node?
+Why shouldn't a node call another node directly?
+Difference between a normal edge and a conditional edge?
+What is the purpose of a router?
+What happens internally during compile()?
+Why is TypedDict used for state?
+How does LangGraph avoid tightly coupled workflows?
+How would you prevent infinite loops in a production LangGraph agent?
+Answer:
+
+Use retry counters, maximum iteration limits, or LLM evaluation combined with explicit termination conditions.

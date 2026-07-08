@@ -343,3 +343,19 @@ Vercel
 A cloud platform optimized for deploying frontend applications.
 Environment Variables
 Configuration values stored outside the source code, commonly used for secrets such as API keys
+
+# Day 17 (langraph)
+
+State
+StateGraph
+Node
+Edge
+Conditional Edge
+Router
+START
+END
+TypedDict
+Shared State
+Workflow Orchestration
+Graph Compilation
+State Transition

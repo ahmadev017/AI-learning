@@ -509,3 +509,30 @@ Code alone is not enough for deployment; the runtime environment matters too.
 Containerization ensures consistent behavior across development, testing, and production.
 Secrets should be provided through environment variables, never committed to source control.
 Deploying an AI application requires packaging dependencies, infrastructure, and configuration—not just application logic.
+
+# Day 17
+1. State is the package.
+
+Nodes never own data.
+
+They only modify the package before passing it onward.
+
+2. Nodes never decide workflow.
+
+Nodes update state.
+
+Routers decide.
+
+Graphs execute.
+
+3. Separate work from decisions.
+
+Node = Action
+
+Router = Decision
+
+Graph = Execution
+
+4. Every workflow must have a termination strategy.
+
+Production agents always include retry limits or explicit stopping conditions.

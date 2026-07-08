@@ -194,3 +194,32 @@ ChromaDB
 Dockerized
 Backend deployed on Render
 Frontend deployed on Vercel
+
+# Day 17 (langraph)
+Topics Completed:
+
+LangGraph Fundamentals
+State
+TypedDict
+Nodes
+Edges
+Conditional Edges
+Router Functions
+START / END
+StateGraph
+compile()
+invoke()
+Dynamic Workflow Routing
+
+Skills Learned:
+
+Designing graph-based workflows
+Building stateful AI agents
+Understanding orchestration architecture
+Separating reasoning from workflow execution
+Identifying infinite loop risks
+
+Project Completed:
+
+Simple LangGraph Workflow
+Conditional Routing Demo
