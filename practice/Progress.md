@@ -223,3 +223,21 @@ Project Completed:
 
 Simple LangGraph Workflow
 Conditional Routing Demo
+
+# Day 18 (mem0)
+Week 3 — Day 18
+
+Long-term memory concepts
+Short-term vs long-term memory
+Episodic vs semantic memory
+Manual memory system
+ChromaDB persistent memory
+Metadata filtering
+Memory retrieval
+Prompt injection
+Mem0 concepts and architecture
+Skills Gained
+Designing persistent AI memory
+Building semantic memory retrieval
+Multi-user memory architecture
+Understanding memory frameworks

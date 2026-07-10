@@ -536,3 +536,37 @@ Graph = Execution
 4. Every workflow must have a termination strategy.
 
 Production agents always include retry limits or explicit stopping conditions.
+
+# Day 18 (mem0)
+
+Mental Model
+Memory is just another RAG pipeline.
+The only difference is the source of information.
+PDF RAG
+PDF
+
+↓
+
+Retriever
+
+↓
+
+LLM
+
+Memory RAG
+
+Past Conversations
+
+↓
+
+Retriever
+
+↓
+
+LLM
+Engineering Principle
+Frameworks automate implementation, not concepts.
+Always understand the manual version before adopting a framework.
+Engineering Principle
+Retrieval is not generation.
+The retriever finds relevant information; the LLM reasons over that information to produce the final response.

@@ -173,3 +173,17 @@ How would you prevent infinite loops in a production LangGraph agent?
 Answer:
 
 Use retry counters, maximum iteration limits, or LLM evaluation combined with explicit termination conditions.
+
+# Day 18 (mem0)
+Why don't LLM APIs remember previous conversations?
+Explain short-term vs long-term memory.
+What is episodic memory?
+What is semantic memory?
+Why do we use metadata in vector databases?
+Why is user_id important in memory systems?
+Why is retrieval separate from generation?
+Explain the architecture of a memory-enabled AI assistant.
+What problems does Mem0 solve?
+Does Mem0 replace ChromaDB? Why or why not?
+Why should an AI engineer understand embeddings even when using Mem0?
+How would you design memory for millions of users?

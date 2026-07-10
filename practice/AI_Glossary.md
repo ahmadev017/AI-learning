@@ -359,3 +359,18 @@ Shared State
 Workflow Orchestration
 Graph Compilation
 State Transition
+
+# Day 18 (mem0)
+
+Long-Term Memory:
+Persistent storage that survives application restarts and allows an AI system to remember users across sessions.
+Short-Term Memory:
+Temporary conversational context available only during the current interaction.
+Episodic Memory:
+Memory that stores events or experiences.
+Semantic Memory:
+Memory that stores facts and knowledge.
+Metadata Filtering:
+Restricting vector search results using metadata such as user_id.
+Memory Management Framework:
+A framework (such as Mem0) that automates memory extraction, updating, storage, and retrieval.
